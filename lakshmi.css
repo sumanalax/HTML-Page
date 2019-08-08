@@ -1,0 +1,350 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#container{
+    width:1000px;
+    margin:0 auto;
+    background-color:black;
+    padding:16px;
+    padding-top:30px;
+}
+.main-nav{
+    height: 50px;
+    display: block;
+    top: 80px;
+    width: 1000px;
+}
+
+.main-nav ul {
+    display: block;
+    float: left;
+    height: 100%;
+    width: 1000px;
+}
+
+.main-nav ul li {
+    display: block;
+    float: left;
+    height: 100%;
+    list-style: none;
+    margin-right: -1px;
+    background-color: grey;
+    width: 89px;
+    padding-top: 10px;
+}
+.main-nav li.separator span {
+    color: white;
+    display: block;
+    margin-left: -2.5px;
+    margin-top: 0px;
+    width: 1px !important;
+    padding-top: 10px;
+}
+
+.main-nav li a {
+    color: white;
+    text-decoration: none;
+}
+#top {
+    display: inline;
+}
+
+#top p{   
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 14px;
+color: azure;
+display: inline;
+vertical-align: top;
+padding-left: 620px;
+}
+
+#content {
+    background-color: rgb(51, 48, 48);
+}
+
+#footer {
+    background-color: rgb(51, 48, 48);
+}
+
+#column1 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+}
+
+#column1 img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: -2px;
+ }
+ #column1 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 12px;
+     padding-top: 15px;
+}
+#column1  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 55px;
+    line-height: 1.25 em;
+}
+
+#column2 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#column2 img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: -2px;
+ }
+ #column2 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 12px;
+     padding-top: 15px;
+}
+#column2  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 55px;
+    line-height: 1.25 em;
+}
+
+#column3 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#column3 img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: -2px;
+ }
+ #column3 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 12px;
+     padding-top: 15px;
+}
+#column3  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 55px;
+    line-height: 1.25 em;
+}
+
+#column4 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#column4 img{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: -2px;
+ }
+ #column4 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 12px;
+     padding-top: 15px;
+}
+#column4  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 55px;
+    line-height: 1.25 em;
+}
+
+#sub {
+    width: 900px;
+}
+
+#sub h3 {
+    color: white;
+    font-size: 20px;
+    display: inline-table;
+    vertical-align: top;
+    margin-left: 12px;
+    padding-top: 15px;
+}
+
+#sub p{
+    display: inline-block;
+    color: white;
+    font-size: 14px;
+    margin-left: 12px;
+    padding-top: 5px;
+    width: 600px;
+}
+
+#sub button{
+    color: white;
+    margin-left: 773px;
+    background-color: orangered;
+    border: none;
+    font-size: 14px;
+    padding: 15px 35px;
+    border-radius: 4px;
+    display:inline-table;
+    vertical-align: top;
+    
+
+}
+#column top h3{
+    color: aliceblue;
+    font-size:15px;
+
+}
+
+
+#footer_column1 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+ #footer_column1 img{
+    display: inline-block;
+    width: 225px;
+    height: 120px;
+    padding-top: -2px;
+    vertical-align: top;
+    padding-bottom: 5px;
+    border: 10px;
+    background-color: grey;
+    padding: 2px;
+ }
+ #footer_column1 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+     padding-top: 15px;
+}
+#footer_column1  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1.25 em;
+}
+
+#footer_column2 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#footer_column2 img{
+    display: inline-block;
+    width: 225px;
+    height: 120px;
+    padding-top: -2px;
+    vertical-align: top;
+    padding-bottom: 5px;
+    border: 10px;
+    background-color: grey;
+    padding: 2px;
+ }
+ #footer_column2 h3{
+     color: rgb(218, 94, 49);
+     font-size: 20px;
+     display: inline-block;
+     vertical-align: top;
+}
+#footer_column2  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1.25 em;
+}
+
+#footer_column3 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#footer_column3 img{
+    display: inline-block;
+    width: 225px;
+    height: 120px;
+    padding-top: -2px;
+    vertical-align: top;
+    padding-bottom: 5px;
+    border: 10px;
+    background-color: grey;
+    padding: 2px;
+ }
+
+#footer_column3 h3{
+    color: rgb(218, 94, 49);
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#footer_column3  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1.25 em;
+}
+
+#footer_column4 {
+    padding-top: 13px;
+    display: inline-table;
+    width: 225px;
+ }
+
+#footer_column4 img{
+    display: inline-block;
+    width: 225px;
+    height: 120px;
+    padding-top: -2px;
+    vertical-align: top;
+    padding-bottom: 5px;
+    border: 10px;
+    background-color: grey;
+    padding: 2px;
+ }
+ #footer_column4 h3{
+    color: rgb(218, 94, 49);
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+#footer_column4  p{
+    color:white;
+    font-size: 14px;
+    display: inline-block;
+    line-height: 1.25 em;
+}
